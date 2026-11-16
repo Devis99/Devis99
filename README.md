@@ -1,4 +1,4 @@
-<img src="assets/bar-profile.png?v=240aef2c" width="100%" alt="devis99 / omarchy themes, newest six" />
+<img src="assets/bar-profile.png?v=240aef2c" width="100%" alt="devis99 / omarchy themes, newest" />
 
 <p align="center">
 <a href="https://github.com/Devis99/omarchy-shellac-theme"><img src="assets/win-shellac.png?v=465d5a47" width="49%" alt="Shellac Omarchy theme, after Robert Johnson, King of the Delta Blues Singers (1936)" /></a>
