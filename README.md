@@ -1,5 +1,7 @@
 <img src="assets/tui-header.png" width="100%" alt="fastfetch-style header: devis99 on Omarchy, Hyprland, foot and Splinterm, 8 published themes, built by one guy, a few AI agents, too many ideas" />
 
+<img src="assets/tui-title.png" width="100%" alt="Omarchy Themes" />
+
 <a href="https://github.com/Devis99/omarchy-shellac-theme"><img src="assets/tui-shellac.png" width="100%" alt="Shellac Omarchy theme: desktop preview and its 13 colours, after Robert Johnson, King of the Delta Blues Singers (1936)" /></a>
 
 <a href="https://github.com/Devis99/omarchy-scarlet-carson-theme"><img src="assets/tui-scarlet-carson.png" width="100%" alt="Scarlet Carson Omarchy theme: desktop preview and its 13 colours, after V for Vendetta and Kauffer's Underground posters" /></a>
