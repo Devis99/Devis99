@@ -16,4 +16,4 @@
 </p>
 
 <p align="center">one guy, a few AI agents, too many ideas<br />
-<a href="THEMES.md">all 8 themes + install commands →</a></p>
+<a href="THEMES.md">all 8 themes →</a></p>
